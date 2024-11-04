@@ -91,10 +91,10 @@ print(c)
 
 1) Reference name should be userfriendly. To understand the code for future reference by watching code. 
 2) Space not allowed in Reference name.
-3) Special symbol only allowed is underscore( _ ) . No ther special symbols are not allowed in reference name.
+3) Special symbol only allowed is underscore( _ ) . No other special symbols are not allowed in reference name.
 4) Reference name are case sensitive.
 5) Every organization follow their own certain rules for reference names and we need to follow them.
-6) `Constant reference Rules in Python which is not restricted`:
+6) **`Constant reference Rules in Python which is not restricted`**:
     * All references (variables, constant/hard coded value, module,function, class)
         * **Variable**: It should be always in small letters
         * **Constant/hard coded value**: It shound be always in Caplital letters. 
