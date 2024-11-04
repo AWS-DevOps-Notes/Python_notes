@@ -95,21 +95,17 @@ print(c)
 4) Reference name are case sensitive.
 5) Every organization follow their own certain rules for reference names and we need to follow them.
 6) `Constant reference Rules in Python which is not restricted`:
-
-* All references (variables, constant/hard coded value, module,function, class)
-    * **Variable**: It should be always in small letters
-    * **Constant/hard coded value**: It shound be always in Caplital letters. 
-    (Ex: a = 1000 #hardcoded value)
-    * **Function**: If the name has more than one word: we can follow camelcase
-    (Ex: addTwoNumbers)
-    * **Class**: It follow capital case like (CustomerPayments)
-
+    * All references (variables, constant/hard coded value, module,function, class)
+        * **Variable**: It should be always in small letters
+        * **Constant/hard coded value**: It shound be always in Caplital letters. 
+        (Ex: a = 1000 #hardcoded value)
+        * **Function**: If the name has more than one word: we can follow camelcase
+        (Ex: addTwoNumbers)
+        * **Class**: It follow capital case like (CustomerPayments)
 7) Can we use numbers in reference names ?
-
     * We can use number but it can't be begining of the name.
     * Using number is not recommandable.
     * In-Built words can't use as a reference name.
-
 8) What do yo mean by in-built word. reserved ?
 
     ![preview](images/py2.jpg)
