@@ -124,10 +124,10 @@ print(c)
     * Whenever we give value , it can be override. But Python have pre-defined values(reserved word) cannot be override user defied alues can be overwrite.
 
     * **`Reserved Words`**: 
-    
+
         ![preview](images/py4.jpg)
 
-    * So above keywords should not be use for variable reference name.
+        * So above keywords should not be use for variable reference name.
 
 ### Operators:
 
@@ -174,7 +174,7 @@ print(a, type(a))
 ```
 **Output**:
 
-![preview](images/py4.jpg)
+![preview](images/py5.jpg)
 
 ### Memory 
 
